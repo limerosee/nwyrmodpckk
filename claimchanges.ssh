@@ -1,4 +1,4 @@
-git add .
+git add mods resourcepacks shaderpacks config
 sleep 1
 git commit -m "test"
 sleep 1 
