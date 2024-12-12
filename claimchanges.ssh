@@ -1,0 +1,5 @@
+git add .
+sleep 1
+git commit -m "test"
+sleep 1 
+git push -u
